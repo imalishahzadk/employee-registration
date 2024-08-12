@@ -1,0 +1,45 @@
+[
+  {
+    "roleId": 1,
+    "userName": "ali hamaza",
+    "empCode": "04403",
+    "empId": 1,
+    "empName": "admin",
+    "empEmailId": "alishahzadk82313@gmail.com",
+    "empDesignationId": 1,
+    "empContactNo": "03002634794",
+    "empAltContactNo": "03002634794",
+    "empPersonalEmailId": "alishahzadk82313@gmail.com",
+    "empExpTotalYear": -6,
+    "empExpTotalMonth": 1,
+    "empCity": "Okara",
+    "empState": "Pakistan",
+    "empPinCode": "56300",
+    "empAddress": "1A/GD sakhi abdal, renala khurd, okara",
+    "empPerCity": "Islamabad, Pakistan",
+    "empPerState": "Pakistan",
+    "empPerPinCode": "04403",
+    "empPerAddress": "Quaid I Azam University, Islamabad",
+    "password": "zxcvbnm",
+    "ErpEmployeeSkills": [
+      {
+        "empSkillId": 0,
+        "empId": 0,
+        "skill": "",
+        "totalYearExp": 0,
+        "lastVersionUsed": ""
+      }
+    ],
+    "ErmEmpExperiences": [
+      {
+        "empExpId": 0,
+        "empId": 0,
+        "companyName": "",
+        "startDate": "",
+        "endDate": "",
+        "designation": "",
+        "projectsWorkedOn": ""
+      }
+    ]
+  }
+]
